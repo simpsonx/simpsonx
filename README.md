@@ -1,8 +1,7 @@
 ### Hi there 👋
 You can call me simpson😎
 
-<font size=20>I’m a graduated student major in communication engineering
-🛰</font>
+I’m a graduated student major in communication engineering🛰
 
 My current course of study is Signals and Systems📲
 
